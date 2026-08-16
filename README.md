@@ -813,6 +813,9 @@ cloudflare-vless-proxy/
 - VLESS 协议规范
 - SOCKS5 协议 RFC 1928
 - WebSocket 协议 RFC 6455
+- https://tzang.net/cloudflare-worker-proxy-2/
+- https://blog.fxcxy.com/2024/03/29/CloudflareWorker%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%8A%82%E7%82%B9/
+- 使用 cloudflare workers 实现科学上网
 
 ### C. 许可证
 本项目仅供学习研究使用，请遵守当地法律法规。
